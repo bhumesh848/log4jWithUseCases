@@ -1,0 +1,5 @@
+INFO  | 2021-12-21 13:31:19 | [main] javapractise.App (App.java:16) - Hello World will be printed on info
+WARN  | 2021-12-21 13:31:19 | [main] javapractise.App (App.java:17) - Hello World will be printed on warn
+ERROR | 2021-12-21 13:31:19 | [main] javapractise.App (App.java:18) - Hello World will be printed on error
+FATAL | 2021-12-21 13:31:19 | [main] javapractise.App (App.java:19) - Hello World will be printed on fatal
+INFO  | 2021-12-21 13:31:19 | [main] javapractise.App (App.java:20) - Appending string: Hello World ,
